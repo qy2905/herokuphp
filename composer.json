@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Wong Qian Yi",
+        "email": "21027604@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
